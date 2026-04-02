@@ -1,1 +1,0 @@
-We have cloned our repo from github. and now we are pushing some changes to github. so our team can pull the changes and work on them.
